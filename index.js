@@ -1,0 +1,1 @@
+const rame = 5;
